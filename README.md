@@ -173,6 +173,151 @@ To begin my career as a **Data Analyst**, applying analytical thinking and techn
 * Git
 * GitHub
 * VS Code
+
+---
+
+# 📂 Featured Projects
+
+<div align="center">
+
+### 🛒 SQL Projects
+
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+|         |             |            |
+|         |             |            |
+|         |             |            |
+
+---
+
+### 📊 Power BI Projects
+
+| Dashboard | Description | Repository |
+| --------- | ----------- | ---------- |
+|           |             |            |
+|           |             |            |
+|           |             |            |
+
+---
+
+### 🐍 Python Projects
+
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+|         |             |            |
+|         |             |            |
+|         |             |            |
+
+---
+
+### 📈 Excel Projects
+
+| Dashboard | Description | Repository |
+| --------- | ----------- | ---------- |
+|           |             |            |
+|           |             |            |
+
+</div>
+
+---
+
+# 📖 Learning Roadmap
+
+```text
+SQL
+   │
+   ▼
+Excel
+   │
+   ▼
+Power BI
+   │
+   ▼
+Python
+   │
+   ▼
+Pandas & NumPy
+   │
+   ▼
+Statistics
+   │
+   ▼
+Machine Learning
+```
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build 10+ Data Analytics Projects
+
+✅ Master SQL
+
+✅ Become proficient in PostgreSQL & MySQL
+
+✅ Build interactive Power BI dashboards
+
+✅ Strengthen Python for Data Analysis
+
+✅ Learn Statistics for Data Analytics
+
+✅ Contribute consistently on GitHub
+
+✅ Land my first Data Analyst role
+
+---
+
+# 📜 Certifications
+
+> *(Add your certifications here as you earn them.)*
+
+* 📌 ______________________
+* 📌 ______________________
+* 📌 ______________________
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/pranavdesai16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> **"Without data, you're just another person with an opinion."**
+> — W. Edwards Deming
+
+</div>
+
+---
+
+# 💙 Thanks for Visiting!
+
+<div align="center">
+
+⭐ If you like my work, consider following me and checking out my projects as I continue building my data analytics portfolio.
+
+</div>
+
+---
+
 * Jupyter Notebook
 
 ---
