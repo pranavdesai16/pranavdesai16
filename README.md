@@ -57,6 +57,127 @@ To begin my career as a **Data Analyst**, applying analytical thinking and techn
 
 🐍 Python Automation
 
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Data Analytics & Visualization
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pranavdesai16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16\&theme=tokyo-night\&hide_border=true)](https://github.com/pranavdesai16)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranavdesai16&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ SQL Optimization
+
+✔ PostgreSQL
+
+✔ Python for Data Analysis
+
+✔ Power BI
+
+✔ Statistics
+
+✔ Business Intelligence
+```
+
+---
+
+# 💡 Core Skills
+
+### 📊 Data Analysis
+
+* SQL
+* PostgreSQL
+* MySQL
+* Excel
+* Power BI
+
+### 🐍 Programming
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+
 🗄 SQL Database Design
 
 ☁ Cloud Analytics (Future)
