@@ -463,6 +463,162 @@ Recommendations
 | ⏳ | Portfolio Website |
 | ⏳ | Data Analyst Job |
 
+<!-- ========================================================= -->
+<!--                 GITHUB ANALYTICS DASHBOARD                -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Analytics Dashboard
+
+<div align="center">
+
+### Measuring Growth Through Consistency, Learning & Open Source
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="95%"
+src="https://streak-stats.demolab.com?user=pranavdesai16&theme=github-dark&hide_border=true&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true&radius=12&area=true"/>
+
+</div>
+
+---
+
+# 📋 Profile Summary
+
+<div align="center">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavdesai16&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🕒 Coding Patterns
+
+<div align="center">
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavdesai16&theme=github_dark"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavdesai16&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📊 Productivity Insights
+
+<div align="center">
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavdesai16&theme=github_dark"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavdesai16&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 📌 GitHub Snapshot
+
+<div align="center">
+
+| Metric | Focus |
+|:------:|:------|
+| 📈 Commits | Continuous Learning |
+| 🚀 Projects | Practical Analytics |
+| 📊 Dashboards | Business Intelligence |
+| 💻 Code | Clean & Documented |
+| 🌱 Growth | Learning in Public |
+| ⭐ Goal | Quality Over Quantity |
+
+</div>
+
+---
+
+# 🎯 Development Philosophy
+
+<div align="center">
+
+```text
+Learn
+   │
+   ▼
+Build
+   │
+   ▼
+Analyze
+   │
+   ▼
+Improve
+   │
+   ▼
+Document
+   │
+   ▼
+Share
+```
+
+</div>
+
+---
+
+# 📅 2026 GitHub Goals
+
+<div align="center">
+
+| Goal | Status |
+|:----|:------:|
+| Build SQL Portfolio | 🔄 |
+| Complete Python Analytics Projects | 🔄 |
+| Publish Power BI Dashboards | 🔄 |
+| Deploy Portfolio Website | ⏳ |
+| Contribute to Open Source | ⏳ |
+| Earn Data Analyst Role | 🎯 |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 "Every commit is another step toward becoming a better Data Analyst."
+
+</div>
+
 </div>
 
 ---
