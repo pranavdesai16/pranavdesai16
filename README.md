@@ -1,119 +1,99 @@
-<h1 align="center">Hi 👋, I'm Pranav Desai</h1>
+<!-- ========================================================= -->
+<!--                 PRANAV DESAI GITHUB PROFILE                -->
+<!-- ========================================================= -->
 
-<p align="center">
-Aspiring Data Analyst • SQL • Power BI • Excel • Python
-</p>
+<div align="center">
 
-<p align="center">
-Turning raw data into meaningful business insights.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Pranav%20Desai&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=58&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pranav%20Desai&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 📍 Nashik, Maharashtra, India
-- 🎯 Aspiring Data Analyst
-- 📊 Passionate about Business Intelligence & Analytics
-- 🌱 Currently learning:
-  - SQL
-  - Python
-  - Statistics
-  - Advanced Power BI
-- 📚 Building real-world portfolio projects
-- 🚀 Looking for Data Analyst opportunities
+# 👋 Hello, I'm Pranav Desai
+
+### Aspiring Data Analyst from India 🇮🇳
+
+### Transforming Data into Business Decisions
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Business+Analytics+%7C+Data+Visualization;Learning+Every+Day+%F0%9F%9A%80;Open+to+Data+Analyst+Opportunities)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,pandas,numpy" />
-
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
+> ### "Without data, you're just another person with an opinion."
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pranavdesai16&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📈 Business Insights 360 | End-to-end Power BI dashboard for executive decision making |
-| 📊 Sales & Finance Analytics | Excel + Power Query + Power Pivot + DAX |
-| 🗄 SQL Analytics Project | SQL data cleaning, joins, CTEs, window functions & KPIs |
-| 🐍 Python Data Analysis | Pandas, NumPy & Matplotlib business analysis |
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<!-- Portfolio -->
+<a href="#">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<!-- Resume -->
+<a href="#">
+<img src="https://img.shields.io/badge/📄_Resume-Coming_Soon-1E293B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-</p>
+<!-- LinkedIn -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Email -->
+<a href="#">
+<img src="https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=pranavdesai16&style=for-the-badge&color=0e75b6)
 
-<img src="https://raw.githubusercontent.com/pranavdesai16/pranavdesai16/output/github-contribution-grid-snake-dark.svg" />
+![](https://img.shields.io/github/followers/pranavdesai16?style=for-the-badge)
 
-</p>
+![](https://img.shields.io/github/stars/pranavdesai16?style=for-the-badge)
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+### 🚀 Currently Focused On
 
-</p>
+📊 Building End-to-End Analytics Projects
+
+📈 Business Intelligence
+
+🗄 Advanced SQL
+
+🐍 Python for Data Analytics
+
+📉 Dashboard Development
+
+💼 Preparing for Data Analyst Roles
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
