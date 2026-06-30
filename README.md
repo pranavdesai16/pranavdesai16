@@ -114,3 +114,150 @@ I'm currently strengthening my skills in **SQL**, **Power BI**, **Excel**, and *
 - Exploratory Data Analysis
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=pranavdesai16&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true&radius=12&area=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Projects that demonstrate practical business problem-solving through data analytics.
+
+</div>
+
+---
+
+## 📊 Business Insights 360
+
+<img src="assets/dashboards/business-insights360.png" width="100%" alt="Business Insights 360"/>
+
+**Executive Power BI dashboard** built to monitor business performance across Finance, Sales, Marketing and Supply Chain using interactive reports, DAX measures and data modeling.
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query` `SQL`
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+## 📈 Sales & Finance Analytics
+
+<img src="assets/dashboards/excel-dashboard.png" width="100%" alt="Sales & Finance Analytics"/>
+
+Business reporting solution built in Excel using **Power Query**, **Power Pivot** and **DAX** to analyze sales performance, profitability and financial KPIs.
+
+**Tech Stack**
+
+`Excel` `Power Query` `Power Pivot` `DAX`
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 🗄 SQL Analytics Portfolio
+
+<img src="assets/dashboards/sql-project.png" width="100%" alt="SQL Analytics"/>
+
+A collection of SQL projects covering customer analytics, sales reporting, KPI tracking and advanced SQL concepts including CTEs, Window Functions and Views.
+
+**Tech Stack**
+
+`MySQL` `SQL`
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Python Data Analytics
+
+<img src="assets/dashboards/python-project.png" width="100%" alt="Python Data Analytics"/>
+
+End-to-end exploratory data analysis projects using Python to clean, analyze and visualize datasets for actionable business insights.
+
+**Tech Stack**
+
+`Python`
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🎓 Certifications
+
+| Certification | Status |
+|:---------------|:------:|
+| Microsoft Power BI | ✅ Completed |
+| Advanced Excel | ✅ Completed |
+| SQL | 🔄 In Progress |
+| Python | 🔄 In Progress |
+| Microsoft PL-300 | 🎯 Planned |
+
+---
+
+<div align="center">
+
+### 📌 More projects are available in my pinned repositories.
+
+</div>
+
+---
