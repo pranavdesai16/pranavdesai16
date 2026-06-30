@@ -261,3 +261,60 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 </div>
 
 ---
+# 🏆 GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranavdesai16/pranavdesai16/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/📄%20Resume-Coming%20Soon-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/📧%20Email-Coming%20Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+I'm always learning, building, and improving my analytics portfolio.
+
+If you find any of my projects interesting, feel free to connect or explore my repositories.
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
