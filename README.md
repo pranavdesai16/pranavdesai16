@@ -1033,6 +1033,177 @@ Actionable Recommendations
 
 </div>
 
+<!-- ========================================================= -->
+<!--            DASHBOARD GALLERY & PORTFOLIO SHOWCASE         -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="35"/> Dashboard Gallery
+
+<div align="center">
+
+### A Visual Showcase of My Analytics Projects
+
+*Every dashboard is designed to answer business questions through clear, interactive visualizations.*
+
+</div>
+
+---
+
+# 🖼 Dashboard Portfolio
+
+<div align="center">
+
+| Business Intelligence | Excel Analytics |
+|:---------------------:|:---------------:|
+| <img src="assets/dashboards/business-insights360.png" width="450"/> | <img src="assets/dashboards/excel-dashboard.png" width="450"/> |
+| **Business Insights 360** | **Sales & Finance Analytics** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+| SQL Analytics | Python Analytics |
+|:-------------:|:----------------:|
+| <img src="assets/dashboards/sql-project.png" width="450"/> | <img src="assets/dashboards/python-project.png" width="450"/> |
+| **SQL Analytics Portfolio** | **Python Data Analysis** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Supply Chain Analytics | Portfolio Website |
+|:-----------------------:|:-----------------:|
+| <img src="assets/dashboards/supplychain.png" width="450"/> | <img src="assets/dashboards/portfolio.png" width="450"/> |
+| **Supply Chain Analytics** | **Personal Portfolio** |
+
+</div>
+
+---
+
+# 📊 Dashboard Design Philosophy
+
+<div align="center">
+
+```text
+Raw Data
+    │
+    ▼
+Data Cleaning
+    │
+    ▼
+Data Modeling
+    │
+    ▼
+KPI Design
+    │
+    ▼
+Visualization
+    │
+    ▼
+Business Insights
+    │
+    ▼
+Decision Making
+```
+
+</div>
+
+---
+
+# 🎯 What My Dashboards Focus On
+
+<div align="center">
+
+| Area | Purpose |
+|:-----|:--------|
+| 📈 Executive Reporting | High-level business overview |
+| 💰 Finance Analytics | Revenue, profit & expenses |
+| 🛒 Sales Analytics | Product & customer performance |
+| 📦 Supply Chain | Inventory & logistics |
+| 👥 Customer Insights | Segmentation & retention |
+| 📉 KPI Monitoring | Real-time business metrics |
+
+</div>
+
+---
+
+# 📌 Dashboard Standards
+
+Every dashboard in my portfolio aims to follow these principles:
+
+- ✔ Business-first design
+- ✔ Clear KPI hierarchy
+- ✔ Interactive filtering
+- ✔ Consistent color palette
+- ✔ Minimal visual clutter
+- ✔ Actionable insights
+- ✔ Performance optimization
+- ✔ Executive-friendly layout
+
+---
+
+# 🛠 Dashboard Tech Stack
+
+<div align="center">
+
+| Tool | Purpose |
+|:-----|:--------|
+| 📊 Power BI | Interactive dashboards |
+| 📑 Excel | Financial & sales analysis |
+| 🗄 MySQL | Data storage & querying |
+| 🐍 Python | Data cleaning & EDA |
+| 📈 DAX | Business calculations |
+| 🔄 Power Query | ETL & transformation |
+
+</div>
+
+---
+
+# 📚 Business Questions I Solve
+
+✔ Which products generate the highest revenue?
+
+✔ Which customers contribute the most profit?
+
+✔ What are the monthly sales trends?
+
+✔ Which regions underperform?
+
+✔ How efficient is inventory management?
+
+✔ Which KPIs require immediate attention?
+
+✔ What business actions can improve performance?
+
+---
+
+# 🚀 Future Portfolio Additions
+
+<div align="center">
+
+| Planned Project | Status |
+|:----------------|:------:|
+| HR Analytics Dashboard | ⏳ |
+| Healthcare Analytics | ⏳ |
+| Retail Sales Dashboard | ⏳ |
+| Customer Churn Analysis | ⏳ |
+| Marketing Campaign Analytics | ⏳ |
+| Financial Risk Dashboard | ⏳ |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📷 Screenshots will be replaced with high-resolution dashboard previews as new projects are completed.
+
+</div>
+
 </div>
 
 ---
