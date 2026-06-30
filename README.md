@@ -1204,6 +1204,192 @@ Every dashboard in my portfolio aims to follow these principles:
 
 </div>
 
+<!-- ========================================================= -->
+<!--      CERTIFICATIONS • LEARNING • CAREER ROADMAP          -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="35"/> Learning Journey
+
+<div align="center">
+
+### Continuous Learning • Practical Projects • Business Analytics
+
+*"Learning never stops. Every project is an opportunity to become a better analyst."*
+
+</div>
+
+---
+
+# 🎓 Certifications
+
+<div align="center">
+
+| Certification | Status | Credential |
+|:--------------|:------:|:----------:|
+| 📊 Microsoft Power BI | ✅ Completed | Coming Soon |
+| 📈 Advanced Excel | ✅ Completed | Coming Soon |
+| 🗄 SQL for Data Analytics | 🔄 In Progress | Coming Soon |
+| 🐍 Python for Data Analytics | 🔄 In Progress | Coming Soon |
+| 📉 Statistics for Data Analysis | 🔄 In Progress | Coming Soon |
+| 🏅 PL-300 (Microsoft) | 🎯 Planned | Coming Soon |
+
+</div>
+
+> **Note:** Certification links will be added once publicly available.
+
+---
+
+# 🧭 Learning Timeline
+
+```text
+2025
+│
+├── 🎓 B.Sc. Computer Science (AI & ML)
+│
+├── 📊 Advanced Excel
+│
+├── 📈 Power BI
+│
+└── 🚀 Started Building Analytics Portfolio
+
+2026
+│
+├── 🗄 SQL
+│
+├── 🐍 Python
+│
+├── 📉 Statistics
+│
+├── 📦 Supply Chain Analytics
+│
+├── 🌐 Portfolio Website
+│
+└── 💼 Data Analyst Career
+```
+
+---
+
+# 🚀 Current Learning Focus
+
+<div align="center">
+
+| Area | Objective |
+|:-----|:----------|
+| 📊 Excel | Advanced analytics & reporting |
+| 📈 Power BI | Interactive dashboards & DAX |
+| 🗄 SQL | Business queries & optimization |
+| 🐍 Python | Data cleaning, EDA & automation |
+| 📉 Statistics | Better decision-making |
+| 📦 Supply Chain Analytics | Business process optimization |
+
+</div>
+
+---
+
+# 🎯 2026 Career Roadmap
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| Build 10+ Portfolio Projects | 🔄 |
+| Master SQL | 🔄 |
+| Strengthen Python Skills | 🔄 |
+| Build Personal Portfolio Website | 🔄 |
+| Earn PL-300 Certification | 🎯 |
+| Secure a Data Analyst Role | 🎯 |
+
+</div>
+
+---
+
+# 🏆 Professional Development Principles
+
+✔ Learn by building real projects
+
+✔ Focus on business impact, not just tools
+
+✔ Document every project clearly
+
+✔ Keep improving through feedback
+
+✔ Prioritize quality over quantity
+
+✔ Stay updated with modern analytics practices
+
+---
+
+# 📚 Learning Philosophy
+
+<div align="center">
+
+```text
+Learn
+   │
+   ▼
+Practice
+   │
+   ▼
+Build
+   │
+   ▼
+Analyze
+   │
+   ▼
+Improve
+   │
+   ▼
+Share
+```
+
+</div>
+
+---
+
+# 💡 Areas I'm Exploring
+
+<div align="center">
+
+🔹 Business Intelligence
+
+🔹 Data Visualization
+
+🔹 SQL Optimization
+
+🔹 Dashboard Design
+
+🔹 Supply Chain Analytics
+
+🔹 KPI Reporting
+
+🔹 Data Storytelling
+
+🔹 Business Process Improvement
+
+</div>
+
+---
+
+# 📖 Recommended Learning Resources
+
+> *(Update these with your actual resources as you complete them.)*
+
+| Resource | Status |
+|:---------|:------:|
+| Codebasics Data Analytics Bootcamp | 🔄 |
+| SQL Practice Platforms | 🔄 |
+| Python Analytics Projects | 🔄 |
+| Microsoft Learn | 🔄 |
+| Kaggle Datasets | 🔄 |
+
+---
+
+<div align="center">
+
+### 🌱 "Small improvements every day lead to remarkable results over time."
+
+</div>
+
 </div>
 
 ---
