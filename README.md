@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Pranav Desai
 
-### Aspiring Data Analyst from India 🇮🇳
+### Data Analyst from India 🇮🇳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Data+into+Business+Insights;SQL+•+Power+BI+•+Excel+•+Python;Building+Real-world+Analytics+Projects;Open+to+Data+Analyst+Opportunities)](https://git.io/typing-svg)
 
@@ -54,7 +54,11 @@ I'm **Pranav Desai**, an aspiring **Data Analyst** from **Nashik, India**.
 
 I enjoy transforming raw data into meaningful business insights through analytics, visualization, and storytelling. My focus is on solving real business problems using modern analytics tools rather than simply building dashboards.
 
-I'm currently strengthening my skills in **SQL**, **Power BI**, **Excel**, and **Python** while developing end-to-end portfolio projects that demonstrate practical business value.
+I'm passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
+
+I build end-to-end analytics projects using **Excel, SQL, Power BI, and Python** to solve real business problems and support data-driven decision-making.
+
+Currently, I'm expanding my portfolio while preparing for Data Analyst opportunities.
 
 ---
 
