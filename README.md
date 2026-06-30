@@ -619,6 +619,420 @@ Share
 
 </div>
 
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS SECTION                -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Featured Projects
+
+<div align="center">
+
+### Real-world Analytics Projects
+
+*Transforming Business Problems into Data-Driven Solutions*
+
+</div>
+
+---
+
+# ⭐ Flagship Projects
+
+<div align="center">
+
+> Every project follows a complete analytics lifecycle:
+>
+> **Business Problem → Data Collection → Data Cleaning → Analysis → Dashboard → Business Insights → Recommendations**
+
+</div>
+
+---
+
+# 📊 Business Insights 360
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### Executive Business Intelligence Dashboard
+
+An end-to-end Power BI project built to help stakeholders monitor business performance through interactive dashboards.
+
+### Highlights
+
+- Executive Dashboard
+- Finance Dashboard
+- Sales Dashboard
+- Marketing Dashboard
+- Supply Chain Dashboard
+- KPI Tracking
+- DAX Measures
+- Power Query
+- Data Modeling
+
+### Business Value
+
+✔ Revenue Analysis
+
+✔ Profitability Tracking
+
+✔ Customer Insights
+
+✔ Performance Monitoring
+
+✔ Executive Reporting
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/business-insights360.png" width="100%"/>
+
+**Dashboard Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=powerbi"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 📈 Sales & Finance Analytics
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### Advanced Excel Analytics
+
+Comprehensive Excel analytics project featuring financial reporting, sales analysis, Power Query transformations, Power Pivot modeling, and DAX calculations.
+
+### Technologies
+
+- Excel
+- Power Query
+- Power Pivot
+- DAX
+- Pivot Tables
+- Data Modeling
+
+### Key Deliverables
+
+✔ Sales Performance
+
+✔ Profit Analysis
+
+✔ Customer Segmentation
+
+✔ Financial KPIs
+
+✔ Executive Reports
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/excel-dashboard.png" width="100%"/>
+
+**Dashboard Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🗄 SQL Analytics Portfolio
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### SQL Business Analytics
+
+A collection of SQL projects covering business reporting, KPI analysis, customer behavior, sales performance, and advanced querying techniques.
+
+### SQL Concepts
+
+- Joins
+- CTEs
+- Window Functions
+- Views
+- Stored Procedures
+- Ranking
+- Aggregation
+
+### Business Insights
+
+✔ Customer Analysis
+
+✔ Revenue Trends
+
+✔ Product Performance
+
+✔ Regional Analysis
+
+✔ Sales KPIs
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/sql-project.png" width="100%"/>
+
+**Project Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Python Data Analytics
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### Exploratory Data Analysis
+
+Python-based analytics projects using industry-standard libraries for cleaning, visualization, and business analysis.
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+### Deliverables
+
+✔ Data Cleaning
+
+✔ Exploratory Analysis
+
+✔ Business Reporting
+
+✔ Visualizations
+
+✔ KPI Analysis
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/python-project.png" width="100%"/>
+
+**Project Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🚚 Supply Chain Analytics
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### Supply Chain Performance Analytics
+
+Business analytics project focused on inventory management, logistics optimization, demand forecasting, and supply chain KPIs.
+
+### Focus Areas
+
+- Inventory Analysis
+- Forecasting
+- Procurement
+- Logistics
+- Vendor Performance
+- KPI Monitoring
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/supplychain.png" width="100%"/>
+
+**Project Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Personal Portfolio Website
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+### Personal Portfolio
+
+A responsive portfolio showcasing analytics projects, dashboards, certifications, resume, and contact information.
+
+### Features
+
+- Responsive Design
+- Project Gallery
+- Resume Download
+- Contact Section
+- GitHub Integration
+- Modern UI
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="assets/dashboards/portfolio.png" width="100%"/>
+
+**Website Preview**
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Visit_Website-06B6D4?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Analytics Project Roadmap
+
+<div align="center">
+
+| Project | Status | Tech Stack |
+|:---------|:------:|:-----------|
+| Business Insights 360 | ✅ | Power BI |
+| Sales & Finance Analytics | ✅ | Excel |
+| SQL Analytics Portfolio | 🔄 | MySQL |
+| Python Analytics | 🔄 | Python |
+| Supply Chain Analytics | 🔄 | SQL + Power BI |
+| Portfolio Website | 🔄 | HTML • CSS • GitHub Pages |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 My Approach to Every Project
+
+```text
+Business Understanding
+        │
+        ▼
+Data Collection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Exploratory Analysis
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Actionable Recommendations
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 More projects coming soon as I continue my Data Analytics journey.
+
+</div>
+
 </div>
 
 ---
