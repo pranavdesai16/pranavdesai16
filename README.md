@@ -1394,6 +1394,122 @@ Share
 
 ---
 
+<!-- ========================================================= -->
+<!--             CONTACT • SNAKE • FOOTER SECTION             -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="35"/> Let's Connect
+
+<div align="center">
+
+### I'm always interested in discussing
+
+📊 Data Analytics • 📈 Business Intelligence • 🐍 Python • 🗄 SQL • 🚀 Career Opportunities
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/📄_Resume-Coming_Soon-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/📧_Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranavdesai16/pranavdesai16/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📌 Profile Checklist
+
+<div align="center">
+
+| Item | Status |
+|:-----|:------:|
+| Hero Banner | ✅ |
+| About Me | ✅ |
+| Tech Stack | ✅ |
+| GitHub Analytics | ✅ |
+| Featured Projects | ✅ |
+| Dashboard Gallery | ✅ |
+| Learning Journey | ✅ |
+| Contribution Snake | ✅ |
+| Portfolio Website | ⏳ |
+| Resume | ⏳ |
+| LinkedIn | ⏳ |
+| Email | ⏳ |
+
+</div>
+
+---
+
+# 📈 Current Mission
+
+<div align="center">
+
+```text
+Learn
+   │
+   ▼
+Build
+   │
+   ▼
+Share
+   │
+   ▼
+Grow
+   │
+   ▼
+Get Better Every Day
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
 <div align="center">
 
 ### 💡 "Great insights come from asking the right questions before analyzing the data."
