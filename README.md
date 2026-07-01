@@ -71,7 +71,51 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 - 🌐 Personal Portfolio Website
 
 ---
+# 🛠 Tech Stack
 
+<div align="center">
+
+### Technologies I use to transform data into actionable business insights
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,pandas,numpy,jupyter,tableau" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-0F172A?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-06B6D4?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Dashboard%20Development-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SQL%20Analytics-0891B2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ETL-14B8A6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data%20Modeling-059669?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/KPI%20Reporting-DC2626?style=flat-square"/>
+
+</div>
+
+---
+
+---
 # 🛠 Tech Stack
 
 ## 📊 Data Analytics
