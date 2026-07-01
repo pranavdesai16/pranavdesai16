@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
@@ -36,6 +37,7 @@
 <img src="https://img.shields.io/github/followers/pranavdesai16?label=Followers&style=for-the-badge&color=0891B2"/>
 
 </div>
+
 ---
 
 # 👨‍💻 About Me
@@ -100,11 +102,10 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 - Exploratory Data Analysis
 
 ---
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -114,15 +115,7 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 <div align="center">
 
-<img width="95%" src="https://streak-stats.demolab.com?user=pranavdesai16&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true&radius=12&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true"/>
 
 </div>
 
