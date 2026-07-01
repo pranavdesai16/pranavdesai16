@@ -191,7 +191,7 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
