@@ -16,30 +16,6 @@
 
 ---
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=pranavdesai16&label=Profile%20Views&style=for-the-badge&color=0891B2"/>
-
-<img src="https://img.shields.io/github/followers/pranavdesai16?label=Followers&style=for-the-badge&color=0891B2"/>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 I'm **Pranav Desai**, an aspiring **Data Analyst** from **Nashik, India**.
@@ -236,26 +212,16 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/📄%20Resume-Coming%20Soon-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/📧%20Email-Coming%20Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
