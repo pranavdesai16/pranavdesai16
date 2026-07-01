@@ -103,24 +103,6 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 ---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavdesai16&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdesai16&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavdesai16&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
