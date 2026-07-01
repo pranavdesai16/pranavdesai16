@@ -71,7 +71,7 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 </div>
 
----
+<br>
 
 ## ⭐ Business Insights 360
 
