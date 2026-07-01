@@ -71,81 +71,30 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 - 🌐 Personal Portfolio Website
 
 ---
-# 🛠 Tech Stack
+## 🛠 Tools & Technologies
 
-<div align="center">
+<p align="left">
 
-### Technologies I use to transform data into actionable business insights
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,pandas,numpy,jupyter,tableau" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Data%20Analysis-0F172A?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-06B6D4?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-2563EB?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Dashboard%20Development-7C3AED?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/SQL%20Analytics-0891B2?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/ETL-14B8A6?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Data%20Modeling-059669?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/KPI%20Reporting-DC2626?style=flat-square"/>
-
-</div>
-
----
-
----
-# 🛠 Tech Stack
-
-## 📊 Data Analytics
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,pandas,numpy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
----
+### 📌 Core Expertise
 
-## 💻 Programming & Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-
-</p>
+`SQL` • `DAX` • `Power Query` • `Power Pivot` • `ETL` • `Data Modeling` • `Data Cleaning` • `Data Visualization` • `Dashboard Design` • `KPI Reporting`
 
 ---
-
-## ⚙️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
 ---
 
 ## 🚀 Core Skills
