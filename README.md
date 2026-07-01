@@ -179,18 +179,6 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 
 ---
 
-## 🎓 Certifications
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-Completed-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Advanced%20Excel-Completed-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
----
-
 <div align="center">
 
 ### 📌 More projects are available in my pinned repositories.
@@ -198,6 +186,7 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 </div>
 
 ---
+
 # 🏆 GitHub Contributions
 
 <div align="center">
