@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Pranav Desai
 
-### Data Analyst from India 🇮🇳
+### Aspiring Data Analyst from India 🇮🇳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Data+into+Business+Insights;SQL+•+Power+BI+•+Excel+•+Python;Building+Real-world+Analytics+Projects;Open+to+Data+Analyst+Opportunities)](https://git.io/typing-svg)
 
@@ -20,9 +20,7 @@
 
 I'm **Pranav Desai**, an aspiring **Data Analyst** from **Nashik, India**.
 
-I enjoy transforming raw data into meaningful business insights through analytics, visualization, and storytelling. My focus is on solving real business problems using modern analytics tools rather than simply building dashboards.
-
-I build end-to-end analytics projects using **Excel, SQL, Power BI, and Python** to solve real business problems and support data-driven decision-making.
+I build end-to-end analytics projects using **Excel, SQL, Power BI, Python, and PostgreSQL** to transform raw data into actionable business insights and support data-driven decision-making.
 
 Currently, I'm expanding my portfolio while preparing for Data Analyst opportunities.
 
@@ -31,15 +29,16 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 ## 🎯 Currently Working On
 
 - 📊 End-to-End Analytics Projects
-- 📈 Power BI Dashboard Development
-- 🗄 SQL Business Analytics
-- 🐍 Python for Data Analysis
-- 🌐 Personal Portfolio Website
+- 📈 Interactive Power BI Dashboards
+- 🗄 Advanced SQL & PostgreSQL
+- 🐍 Python for Data Analytics
+- 🌐 Portfolio Website
 
 ---
+
 ## 🛠 Tools & Technologies
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -58,7 +57,9 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 ### 📌 Core Expertise
 
-`SQL` • `DAX` • `Power Query` • `Power Pivot` • `ETL` • `Data Modeling` • `Data Cleaning` • `Data Visualization` • `Dashboard Design` • `KPI Reporting`
+`SQL` • `PostgreSQL` • `DAX` • `Power Query` • `Power Pivot` • `ETL`
+
+`Data Modeling` • `Data Cleaning` • `Dashboard Design` • `Data Visualization` • `KPI Reporting`
 
 ---
 
@@ -72,7 +73,7 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 ---
 
-## 📊 Business Insights 360
+## ⭐ Business Insights 360
 
 <img src="assets/dashboards/business-insights360.png" width="100%" alt="Business Insights 360"/>
 
@@ -96,7 +97,7 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 
 ---
 
-## 📈 Sales & Finance Analytics
+## ⭐ Sales & Finance Analytics
 
 <img src="assets/dashboards/excel-dashboard.png" width="100%" alt="Sales & Finance Analytics"/>
 
@@ -116,7 +117,7 @@ Business reporting solution built in Excel using **Power Query**, **Power Pivot*
 
 ---
 
-## 🗄 SQL Analytics Portfolio
+## ⭐ SQL Analytics Portfolio
 
 <img src="assets/dashboards/sql-project.png" width="100%" alt="SQL Analytics"/>
 
@@ -136,7 +137,7 @@ A collection of SQL projects covering customer analytics, sales reporting, KPI t
 
 ---
 
-## 🐍 Python Data Analytics
+## ⭐ Python Data Analytics
 
 <img src="assets/dashboards/python-project.png" width="100%" alt="Python Data Analytics"/>
 
