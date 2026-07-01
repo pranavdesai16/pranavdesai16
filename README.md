@@ -22,8 +22,6 @@ I'm **Pranav Desai**, an aspiring **Data Analyst** from **Nashik, India**.
 
 I enjoy transforming raw data into meaningful business insights through analytics, visualization, and storytelling. My focus is on solving real business problems using modern analytics tools rather than simply building dashboards.
 
-I'm passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
-
 I build end-to-end analytics projects using **Excel, SQL, Power BI, and Python** to solve real business problems and support data-driven decision-making.
 
 Currently, I'm expanding my portfolio while preparing for Data Analyst opportunities.
@@ -61,21 +59,6 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 ### 📌 Core Expertise
 
 `SQL` • `DAX` • `Power Query` • `Power Pivot` • `ETL` • `Data Modeling` • `Data Cleaning` • `Data Visualization` • `Dashboard Design` • `KPI Reporting`
-
----
-
-## 🚀 Core Skills
-
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- SQL Analytics
-- KPI Reporting
-- Power Query
-- DAX
-- Exploratory Data Analysis
 
 ---
 
@@ -179,14 +162,6 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 
 ---
 
-<div align="center">
-
-### 📌 More projects are available in my pinned repositories.
-
-</div>
-
----
-
 # 🏆 GitHub Contributions
 
 <div align="center">
@@ -212,18 +187,6 @@ End-to-end exploratory data analysis projects using Python to clean, analyze and
 <a href="YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-I'm always learning, building, and improving my analytics portfolio.
-
-If you find any of my projects interesting, feel free to connect or explore my repositories.
 
 </div>
 
