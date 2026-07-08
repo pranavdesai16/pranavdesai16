@@ -109,7 +109,7 @@ Business reporting solution built in Excel using **Power Query**, **Power Pivot*
 
 <p align="left">
 
-<a href="#">
+<a href="https://github.com/pranavdesai16/Sales-and-Finance-Analytics">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -117,45 +117,17 @@ Business reporting solution built in Excel using **Power Query**, **Power Pivot*
 
 ---
 
-## ⭐ SQL Analytics Portfolio
+## ⭐ SQL Music Store Analysis
 
 <img src="assets/dashboards/sql-project.png" width="100%" alt="SQL Analytics"/>
 
-A collection of SQL projects covering customer analytics, sales reporting, KPI tracking and advanced SQL concepts including CTEs, Window Functions and Views.
-
 **Tech Stack**
 
-`MySQL` `SQL`
+`PostgreSQL` `SQL`
 
 <p align="left">
 
-<a href="#">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-## ⭐ Python Data Analytics
-
-<img src="assets/dashboards/python-project.png" width="100%" alt="Python Data Analytics"/>
-
-End-to-end exploratory data analysis projects using Python to clean, analyze and visualize datasets for actionable business insights.
-
-**Tech Stack**
-
-`Python`
-
-`Pandas`
-
-`NumPy`
-
-`Matplotlib`
-
-<p align="left">
-
-<a href="#">
+<a href="https://github.com/pranavdesai16/SQL_Music_Store_Analysis">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
