@@ -117,7 +117,7 @@ Business reporting solution built in Excel using **Power Query**, **Power Pivot*
 
 ---
 
-## ⭐ SQL Music Store Analysis
+## ⭐ Music Store Analysis - SQL
 
 <img src="assets/dashboards/sql-project.png" width="100%" alt="SQL Analytics"/>
 
