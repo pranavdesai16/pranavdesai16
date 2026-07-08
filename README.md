@@ -89,7 +89,7 @@ Currently, I'm expanding my portfolio while preparing for Data Analyst opportuni
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/pranavdesai16/AtliQ-Hardware-Business-Insights-360">
 <img src="https://img.shields.io/badge/Live%20Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
